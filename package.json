@@ -1,7 +1,7 @@
 {
   "name": "abacus-fullstack-deps",
   "description": "generator-angular-fullstack에 angular 1.5로 변경 하여 generator-abacus-fullstack에서 사용 하는 모듈로 재정의 함 ",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "server/app.js",
   "dependencies": {
     "express": "^4.13.3",
