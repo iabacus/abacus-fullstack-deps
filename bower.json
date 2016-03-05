@@ -1,5 +1,5 @@
 {
-  "name": "angular-fullstack-deps",
+  "name": "abacus-fullstack-deps",
   "version": "3.3.0",
   "dependencies": {
     "angular": "~1.5.0",
